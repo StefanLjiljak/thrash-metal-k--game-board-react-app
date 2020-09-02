@@ -1,5 +1,7 @@
 # Thrash Metal Коцкица Game Board React App, Mobile 1st
 
+https://thrash-metal-kockica.netlify.app/
+
 - svakog dana u svakom pogledu sve vise napredujem :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
