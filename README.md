@@ -1,6 +1,6 @@
-# Thrash Metal Коцкица React App, Mobile 1st
+# Thrash Metal Коцкица Game Board React App, Mobile 1st
 
-- svakog dana u svakom pogledu sve vise napreduje :)
+- svakog dana u svakom pogledu sve vise napredujem :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
